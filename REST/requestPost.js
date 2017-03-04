@@ -1,3 +1,7 @@
+//Author: Minh Bui
+//Date: 3/4/2016
+//Description: calling REST using javascript. This script runs with Node.js and NPM package request
+
 var request = require('request');
 
 //Lets configure and request
